@@ -1,5 +1,5 @@
 # husky-jam
-# gggggg
+# gggggggg
 
 Макет --> /model
 
