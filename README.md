@@ -1,5 +1,5 @@
 # husky-jam
-# test-local
+# update
 
 Макет --> /model
 
