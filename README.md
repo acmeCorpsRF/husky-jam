@@ -1,5 +1,5 @@
 # husky-jam
-# testing 2
+# master
 
 Макет --> /model
 
