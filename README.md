@@ -1,5 +1,5 @@
 # husky-jam
-# update
+# hotfix
 
 Макет --> /model
 
