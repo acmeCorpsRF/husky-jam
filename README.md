@@ -1,5 +1,5 @@
 # husky-jam
-# origin/master 22222
+# origin/master
 
 Макет --> /model
 
