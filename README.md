@@ -1,5 +1,5 @@
 # husky-jam
-# origin/origin-test-local
+# update
 
 Макет --> /model
 
