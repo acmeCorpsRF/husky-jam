@@ -1,5 +1,6 @@
 # husky-jam
-# hotfix
+# issue53 
+# clear
 
 Макет --> /model
 
