@@ -1,5 +1,5 @@
 # husky-jam
-# master-local 123
+# master-local
 
 Макет --> /model
 
