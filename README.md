@@ -1,5 +1,5 @@
 # husky-jam
-# master fetch
+# master no fetch
 
 Макет --> /model
 
