@@ -1,5 +1,5 @@
 # husky-jam
-# rar
+# only master 1
 
 Макет --> /model
 
