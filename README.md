@@ -1,5 +1,5 @@
 # husky-jam
-# only master 1
+# new
 
 Макет --> /model
 
